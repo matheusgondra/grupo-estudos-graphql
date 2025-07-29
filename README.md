@@ -16,6 +16,14 @@ Irei dar uma sugestão de como estudar os assuntos desse grupo. Lembre-se que é
 
 Você deve seguir o roadmap e estudar o tema na ordem junto com seus subtemas. Ao finalizar todos os subtemas de um tópico deve escrever um post em uma plataforma de sua preferencia e disponibilizar o link nesse repositório através de um Pull Request para compartilhar o que aprendeu.
 
+Os posts devem ser adicionados na página de [artigos](./artigos.md) e devem seguir o formato abaixo.
+
+```
+- [nome do post](link-do-post) 
+```
+
 ### Desafios
 
 Serão disponibilizados desafios para testar aquilo que aprendeu. Como o grupo não segue uma linguagem de programação especifica você poderá usar a linguagem que achar melhor.
+
+Os desafios podem ser encontrados na página de [desafios](./desafios.md).
